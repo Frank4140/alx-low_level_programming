@@ -2,7 +2,7 @@
 /**
  * main - A program that uses the puts() function instead of printf()
  *
- * return: 0 (successful)
+ * Return: 0 (successful)
  */
 int main(void) 
 {
